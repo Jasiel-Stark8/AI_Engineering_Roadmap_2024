@@ -1,17 +1,17 @@
 # Getting-Started-with-Generative-AI
 A curated list of articles and tutorials to start with and understand generative AI
 
-[![GitHub license](https://img.shields.io/github/license/youssefHosni/Getting-Started-with-Generative-AI.svg)](https://github.com/youssefHosni/Getting-Started-with-Generative-AI/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/pulls/)
+[![GitHub license](https://img.shields.io/github/license/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg)](https://github.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/network/)
-[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Getting-Started-with-Generative-AI.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Getting-Started-with-Generative-AI/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg?style=social&label=Watch)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg?style=social&label=Fork)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg?style=social&label=Star)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/stargazers/)
 
-![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero](https://github.com/youssefHosni/Getting-Started-with-Generative-AI/assets/72076328/bd6ea757-64de-486e-bd67-cd3a9fac8580)
+![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero]([https://github.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/assets/72076328/bd6ea757-64de-486e-bd67-cd3a9fac8580](https://drive.google.com/file/d/1YCarhQ-sjgCDMUnlcYuRjV7-niGvUjcQ/view?usp=sharing))
 
 ## Introduction to Generative AI ##
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
