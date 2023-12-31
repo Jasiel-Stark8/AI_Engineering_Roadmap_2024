@@ -11,7 +11,7 @@ A curated list of articles and tutorials to start with and understand generative
 [![GitHub forks](https://img.shields.io/github/forks/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg?style=social&label=Fork)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Jasiel-Stark8/Getting-Started-with-Generative-AI.svg?style=social&label=Star)](https://GitHub.com/Jasiel-Stark8/Getting-Started-with-Generative-AI/stargazers/)
 
-![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero](https://drive.google.com/file/d/1YCarhQ-sjgCDMUnlcYuRjV7-niGvUjcQ/view?usp=sharing)
+![6441d5f76d21e1e4dee9ffa2_Gen AI blog_Blog hero]([https://drive.google.com/file/d/1YCarhQ-sjgCDMUnlcYuRjV7-niGvUjcQ/view?usp=sharing](https://drive.google.com/file/d/1YCarhQ-sjgCDMUnlcYuRjV7-niGvUjcQ/view?usp=sharing))
 
 ## Introduction to Generative AI ##
 * [Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)
