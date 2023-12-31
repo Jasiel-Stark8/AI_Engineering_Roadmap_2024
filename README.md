@@ -2,6 +2,8 @@
 
 Welcome to your comprehensive guide for AI Engineering in 2024. This curated playlist collection is designed to take you from a beginner to advanced levels in AI, ML, and DL.
 
+![Gen AI blog Blog hero](https://drive.google.com/uc?export=view&id=1YCarhQ-sjgCDMUnlcYuRjV7-niGvUjcQ)
+
 ## CodSoft AI Internship
 Complete the NLP Playlist by CodeBasics as a part of your internship experience.
 - [NLP Play List by CodeBasics](https://www.youtube.com/watch?v=R-AG4-qZs1A&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&pp=iAQB)
