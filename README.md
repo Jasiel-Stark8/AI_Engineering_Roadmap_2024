@@ -77,6 +77,9 @@ Enhance your credentials with these specialized courses.
 ### AI Foundations for Everyone Specialization (IBM) - 5 TRACKS
 - [Specialization on Coursera](https://www.coursera.org/specializations/ai-foundations-for-everyone)
 
+
+# Extras and Full Fledged Standalone Courses
+---
 ### Generative AI (Google Skills Boost)
 Details to be added.
 
