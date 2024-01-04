@@ -80,4 +80,6 @@ Enhance your credentials with these specialized courses.
 ### Generative AI (Google Skills Boost)
 Details to be added.
 
+### Microsoft AI Course (12 weeks)
+[Microsoft - AI For Beginners](https://github.com/microsoft/ai-for-beginners)
 Enjoy your learning journey!
