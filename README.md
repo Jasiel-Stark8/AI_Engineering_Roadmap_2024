@@ -63,7 +63,7 @@ Enhance your Python skills with these advanced topics.
 Explore the world of large language models and their applications.
 
 ### LLM Course
-- [LLM & Statistics] (https://github.com/mlabonne/llm-course)
+- [LLM & Statistics](https://github.com/mlabonne/llm-course)
 
 ### OpenAI Crash Course
 - [OpenAI Crash Course (2 videos)](https://www.youtube.com/watch?v=xP_ZON_P4Ks&list=PLeo1K3hjS3uuyHkzjBfd3nwD7SJ5C11aB&pp=iAQB)
